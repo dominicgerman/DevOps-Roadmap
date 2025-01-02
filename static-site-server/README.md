@@ -18,4 +18,4 @@ sudo chown -R ec2-user:ec2-user /var/www/html
 sudo chmod -R 755 /var/www/html
 ```
 
-If you want to run `deploy.sh` yourself, you'll want to change those permissions on whatever vps you have. You'll also want a .env file with two variables ($SSH_KEY_PATH and $REMOTE_HOST) set to the ssh key path for your local machine and the the ip address for you remote server. 
+If you want to run `deploy.sh` yourself, you'll want to change those permissions on whatever vps you have. You'll also want a .env file with two variables ($SSH_KEY_PATH and $REMOTE_HOST) set to the ssh key path you use to connect to the server from your local machine and the the ip address for your remote server. 
