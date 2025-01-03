@@ -10,6 +10,6 @@ This repo is for tracking the completion of projects for the [DevOps Roadmap](ht
 6. https://roadmap.sh/projects/static-site-server | [repo](https://github.com/dominicgerman/DevOps-Roadmap/tree/main/static-site-server)
 7. https://roadmap.sh/projects/basic-dns | [repo](https://github.com/dominicgerman/DevOps-Roadmap/tree/main/basic-dns)
 8. https://roadmap.sh/projects/simple-monitoring-dashboard | [repo](https://github.com/dominicgerman/DevOps-Roadmap/tree/main/monitoring-dashboard)
-9. https://roadmap.sh/projects/dummy-systemd-service
-10. https://roadmap.sh/projects/basic-dockerfile 
+9. https://roadmap.sh/projects/dummy-systemd-service | [repo](https://github.com/dominicgerman/DevOps-Roadmap/tree/main/dummy-systemd)
+10. https://roadmap.sh/projects/basic-dockerfile | [repo](https://github.com/dominicgerman/DevOps-Roadmap/tree/main/basic-dockerfile)
 11. https://roadmap.sh/projects/ec2-instance | [repo](https://github.com/dominicgerman/DevOps-Roadmap/tree/main/static-site-server)
