@@ -8,7 +8,7 @@ This repo is for tracking the completion of projects for the [DevOps Roadmap](ht
 4. https://roadmap.sh/projects/github-actions-deployment-workflow | [repo](https://github.com/dominicgerman/gh_deployment_workflow)
 5. https://roadmap.sh/projects/ssh-remote-server-setup | [repo](https://github.com/dominicgerman/DevOps-Roadmap/tree/main/remote-server-setup)
 6. https://roadmap.sh/projects/static-site-server | [repo](https://github.com/dominicgerman/DevOps-Roadmap/tree/main/static-site-server)
-7. https://roadmap.sh/projects/basic-dns
+7. https://roadmap.sh/projects/basic-dns | [repo](https://github.com/dominicgerman/DevOps-Roadmap/tree/main/basic-dns)
 8. https://roadmap.sh/projects/simple-monitoring-dashboard
 9. https://roadmap.sh/projects/dummy-systemd-service
 10. https://roadmap.sh/projects/basic-dockerfile 
