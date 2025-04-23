@@ -1,0 +1,21 @@
+---
+- name: Create web root directory
+  file:
+    path: /var/www/my_site
+    state: directory
+    owner: www-data
+    group: www-data
+    mode: '0755'
+
+- name: Upload website tarball
+  copy:
+    src: site.tar.gz
+    dest: /var/www/my_site/site.tar.gz
+
+- name: Extract site tarball
+  unarchive:
+    src: /var/www/my_site/site.tar.gz
+    dest: /var/www/my_site/
+    remote_src: yes
+    owner: www-data
+    group: www-data
