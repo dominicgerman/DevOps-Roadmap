@@ -9,4 +9,3 @@ You can use this guide from Digital Ocean and Digital Ocean provider documentati
 Stretch goal
 
 Write Ansible playbook that will configure the server. You can use the same playbook from the previous project.
-

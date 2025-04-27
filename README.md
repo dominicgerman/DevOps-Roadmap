@@ -14,3 +14,5 @@ This repo is for tracking the completion of projects for the [DevOps Roadmap](ht
 10. https://roadmap.sh/projects/basic-dockerfile | [repo](https://github.com/dominicgerman/DevOps-Roadmap/tree/main/basic-dockerfile)
 11. https://roadmap.sh/projects/ec2-instance | [repo](https://github.com/dominicgerman/DevOps-Roadmap/tree/main/static-site-server)
 12. https://roadmap.sh/projects/configuration-management | [repo](https://github.com/dominicgerman/DevOps-Roadmap/tree/main/configuration-management)
+13. https://roadmap.sh/projects/iac-digitalocean | [repo](https://github.com/dominicgerman/DevOps-Roadmap/tree/main/iac-digitalocean)
+
