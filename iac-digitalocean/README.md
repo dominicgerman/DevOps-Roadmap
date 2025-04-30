@@ -9,3 +9,31 @@ You can use this guide from Digital Ocean and Digital Ocean provider documentati
 Stretch goal
 
 Write Ansible playbook that will configure the server. You can use the same playbook from the previous project.
+
+## Usage
+
+> used this [tutorial](https://www.digitalocean.com/community/tutorials/how-to-use-terraform-with-digitalocean)
+
+1. Verify that Terraform is installed on your Mac or PC by running `terraform`
+2. Run `terraform init` to initialize a project from the `provider.tf` configuration
+3. Run the following command to see the execution plan of what Terraform will attempt based on `www-.tf`:
+
+```sh
+terraform plan \
+  -var "do_token=${DO_PAT}"
+```
+
+4. Then run the following to provision the server:
+
+```sh
+terraform apply \
+  -var "do_token=${DO_PAT}"
+```
+
+5. Run `terraform show terraform.tfstate` to see the state of your environment.
+6. Run the following command to destroy the environment:
+
+```sh
+terraform destroy \
+  -var "do_token=${DO_PAT}"
+```
